@@ -1,2 +1,2 @@
 # EDM_Project
-https://edmproject.shinyapps.io/PROYECTO/
+(https://antonio14.shinyapps.io/Edm_Project/)https://antonio14.shinyapps.io/Edm_Project/
